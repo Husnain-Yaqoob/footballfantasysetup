@@ -8,7 +8,7 @@ package footballfantasysetup;
  *
  * @author hasan
  */
-public class Player {
+public abstract class Player {
   private  String fname;
   private   String lname;
    private  String country;
